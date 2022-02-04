@@ -1,0 +1,35 @@
+*{
+    background-color: royalblue;
+    color: white;
+    font-size: 1em;
+   
+    
+}
+.todo{
+    padding: 1em;
+}
+
+button{
+    background-color: black;
+    color: white;
+}
+.delete{
+    background-color: red;
+    color: white;
+
+}
+.complete{
+    background-color: green;
+    color: white;
+}
+input{
+    background-color: white;
+    color: grey;
+}
+
+
+
+.crossText{
+    color:red;
+    text-decoration: line-through;
+}
