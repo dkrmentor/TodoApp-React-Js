@@ -30,6 +30,7 @@ input{
 
 
 .crossText{
-    color:red;
+    color: red !important;;
     text-decoration: line-through;
+
 }
